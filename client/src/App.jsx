@@ -329,11 +329,11 @@ const App = () => {
             >
               <div className="px-6 py-8 space-y-8 flex flex-col items-center">
                  <div className="flex gap-10">
-                    <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-2 text-zinc-400 hover:text-white">
+                    <a href="https://github.com/devmuhammadbilal" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-2 text-zinc-400 hover:text-white">
                       <div className="p-4 bg-zinc-900 rounded-full border border-white/5"><Github size={24} /></div>
                       <span className="text-xs font-medium">GitHub</span>
                     </a>
-                    <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-2 text-zinc-400 hover:text-white">
+                    <a href="https://www.linkedin.com/in/muhammadbilal00/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-2 text-zinc-400 hover:text-white">
                       <div className="p-4 bg-zinc-900 rounded-full border border-white/5"><Linkedin size={24} /></div>
                        <span className="text-xs font-medium">LinkedIn</span>
                     </a>
