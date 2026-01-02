@@ -298,10 +298,10 @@ const App = () => {
           {/* DESKTOP NAV */}
           <div className="hidden md:flex items-center gap-6">
             <div className="flex gap-4">
-              <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/devmuhammadbilal" target="_blank" rel="noopener noreferrer">
                 <Github className="w-5 h-5 text-zinc-400 hover:text-white cursor-pointer transition-colors" />
               </a>
-              <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+              <a href="www.linkedin.com/in/muhammadbilal00" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="w-5 h-5 text-zinc-400 hover:text-white cursor-pointer transition-colors" />
               </a>
             </div>
